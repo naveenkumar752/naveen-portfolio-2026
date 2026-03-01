@@ -1,10 +1,10 @@
 import { motion } from 'framer-motion';
 
 const skills = [
-    { category: "Web Technologies", items: ["React.js", "Node.js", "Ruby on Rails", "TypeScript", "JavaScript", "HTML5", "CSS", "Ant Design", "Tailwind CSS", "Bootstrap"] },
-    { category: "Cloud & AWS", items: ["AWS Lambda", "Amazon S3", "AWS IAM", "Amazon Cognito", "AWS CodeCommit", "Amazon Web Services Developer - Associate"] },
-    { category: "Databases & Tools", items: ["MySQL", "Node", "Ruby"] },
-    { category: "Soft Skills", items: ["Problem Solving", "Management", "Presentations", "Communication", "Engineering", "Training"] }
+    { category: "Frontend", items: ["React.js", "Angular", "Vue.js", "JavaScript", "TypeScript", "HTML5", "CSS", "Tailwind CSS", "Ant Design", "Bootstrap", "CoffeeScript"] },
+    { category: "Backend & Frameworks", items: ["Node.js", "Express.js", "Ruby on Rails", "Ruby", "PHP", "Symfony"] },
+    { category: "Databases & ORMs", items: ["PostgreSQL (PSQL)", "MySQL", "TypeORM", "Active Record"] },
+    { category: "Cloud & DevSecOps", items: ["AWS Lambda", "Amazon S3", "AWS IAM", "Amazon Cognito", "AWS CodeCommit", "Deployment"] }
 ];
 
 export default function Skills() {
