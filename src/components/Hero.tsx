@@ -26,7 +26,7 @@ export default function Hero() {
                                 className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/20 text-indigo-400 text-sm font-medium"
                             >
                                 <Terminal className="w-4 h-4" />
-                                <span>Available for new opportunities</span>
+                                {/* <span>Available for new opportunities</span> */}
                             </motion.div>
 
                             <motion.div
