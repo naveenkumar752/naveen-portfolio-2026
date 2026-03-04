@@ -40,7 +40,7 @@ export default function Hero() {
                         </h1>
 
                         <h2 className="text-xl md:text-2xl text-slate-400 mb-8 font-light max-w-2xl">
-                            Junior Software Engineer specializing in scalable web applications, AWS cloud infrastructure, and modern frontend frameworks.
+                            Software Engineer specializing in scalable web and mobile applications, AWS cloud infrastructure, and modern full-stack development.
                         </h2>
 
                         <div className="flex flex-wrap items-center justify-center md:justify-start gap-4">

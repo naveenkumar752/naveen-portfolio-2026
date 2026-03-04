@@ -37,10 +37,10 @@ export default function Contact() {
 
                 <div className="flex flex-col md:flex-row items-center justify-between gap-6">
                     <div className="flex items-center gap-6">
-                        <a href="https://linkedin.com/in/naveenkumar-m" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors p-2 hover:bg-indigo-500/10 rounded-full">
+                        <a href="https://www.linkedin.com/in/naveenkumar-m-4024b7245/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors p-2 hover:bg-indigo-500/10 rounded-full">
                             <Linkedin className="w-6 h-6" />
                         </a>
-                        <a href="https://github.com/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors p-2 hover:bg-indigo-500/10 rounded-full">
+                        <a href="https://github.com/naveenkumar752" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors p-2 hover:bg-indigo-500/10 rounded-full">
                             <Github className="w-6 h-6" />
                         </a>
                     </div>

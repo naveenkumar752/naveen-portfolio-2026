@@ -37,7 +37,7 @@ export default function Navbar() {
                         <a href="https://github.com/naveenkumar752" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors">
                             <Github className="w-5 h-5" />
                         </a>
-                        <a href="mailto:contact@example.com" className="text-slate-400 hover:text-indigo-400 transition-colors">
+                        <a href="mailto:naveenkumarm752@gmail.com" className="text-slate-400 hover:text-indigo-400 transition-colors">
                             <Mail className="w-5 h-5" />
                         </a>
                     </motion.div>

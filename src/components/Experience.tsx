@@ -3,25 +3,32 @@ import { Briefcase, Calendar } from 'lucide-react';
 
 const experiences = [
     {
+        role: "Software Engineer",
+        company: "Jothi Software Private Ltd",
+        duration: "Jun 2025 - Present",
+        description: "Promoted to Software Engineer after demonstrating strong full-stack capabilities. Leading development of scalable web and mobile applications using modern frameworks and AWS cloud infrastructure.",
+        skills: ["Ruby", "Ruby on Rails", "PHP", "Symfony", "AngularJS", "Vue.js", "RubyMine", "Doctrine", "MySQL", "PostgreSQL", "MVC", "Databases", "Node", "Node.js", "Express.js", "Prisma", "React.js", "React Native", "AWS RDS", "CodeCommit", "GitHub", "Git", "CloudFront", "S3", "Lambda", "Cognito", "IAM"]
+    },
+    {
         role: "Junior Software Engineer",
         company: "Jothi Software Private Ltd",
-        duration: "Jul 2024 - Present",
-        description: "Developing robust web applications using Ruby on Rails, React.js, and Node.js. Designing scalable backend architectures and seamless user experiences across domains.",
-        skills: ["Ruby on Rails", "Ruby", "React.js", "Node.js", "MySQL", "PSQL", "TypeORM", "Active Record"]
+        duration: "Jul 2024 - Jun 2025",
+        description: "Built robust web applications and APIs. Focused on delivering high-quality code and optimizing database performance while collaborating in an agile team environment.",
+        skills: ["Ruby on Rails", "Ruby", "JavaScript", "React.js", "Node.js", "TypeScript", "MySQL", "HTML5", "CSS", "Ant Design", "Bootstrap"]
     },
     {
         role: "Intern",
         company: "Jothi Software Private Ltd",
         duration: "Jun 2023 - Jun 2024",
         description: "Worked as a part-time intern, gaining hands-on experience in React.js, Node.js, TypeScript, AWS, and the Ant Design framework. Collaborated effectively within a team, enhancing problem-solving and communication skills. Developed a strong understanding of IT culture, project management, and workflow optimization, contributing to a structured and efficient development environment.",
-        skills: ["React.js", "Node", "TypeScript", "AWS", "Ant Design"]
+        skills: ["React.js", "Node", "AWS", "TypeScript", "antd"]
     },
     {
         role: "Student Intern",
         company: "Nokia Solutions And Networks India Pvt Ltd",
         duration: "Aug 2020 - Sep 2020",
         description: "Internship focusing on enterprise networking software and systems engineering exposure.",
-        skills: ["Engineering", "Communication"]
+        skills: ["Networking", "Enterprise Systems"]
     }
 ];
 
