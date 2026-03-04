@@ -31,7 +31,7 @@ export default function Navbar() {
 
                         <div className="w-px h-5 bg-slate-700"></div>
 
-                        <a href="https://linkedin.com/in/naveenkumar-m" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors">
+                        <a href="https://www.linkedin.com/in/naveenkumar-m-4024b7245/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors">
                             <Linkedin className="w-5 h-5" />
                         </a>
                         <a href="https://github.com/naveenkumar752" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors">
@@ -68,7 +68,7 @@ export default function Navbar() {
                             <div className="h-px w-full bg-slate-800 my-2"></div>
 
                             <div className="flex items-center gap-6">
-                                <a href="https://linkedin.com/in/naveenkumar-m" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors">
+                                <a href="https://www.linkedin.com/in/naveenkumar-m-4024b7245/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors">
                                     <Linkedin className="w-6 h-6" />
                                 </a>
                                 <a href="https://github.com/naveenkumar752" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors">

@@ -19,15 +19,7 @@ export default function Hero() {
                         className="flex-1 text-center md:text-left"
                     >
                         <div className="flex flex-wrap items-center justify-center md:justify-start gap-4 mb-6">
-                            <motion.div
-                                initial={{ opacity: 0 }}
-                                animate={{ opacity: 1 }}
-                                transition={{ delay: 0.2, duration: 0.5 }}
-                                className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/20 text-indigo-400 text-sm font-medium"
-                            >
-                                <Terminal className="w-4 h-4" />
-                                {/* <span>Available for new opportunities</span> */}
-                            </motion.div>
+
 
                             <motion.div
                                 initial={{ opacity: 0 }}
